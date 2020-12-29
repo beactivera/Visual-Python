@@ -1,0 +1,608 @@
+{
+  "Afryka": [
+    {
+      "kraj": "Seszele",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0,
+          "5a24": 0.8,
+          "25a54": 18.4,
+          "powyzej55": 80.8
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 1.4,
+          "5a24": 3,
+          "25a54": 13.4,
+          "powyzej55": 82.2
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 96.25,
+          "nie": 3.75
+        },
+        "podstawowe warunki sanitarne": 100
+      },
+      "PKB": {
+        "per capita": 15536
+      },
+      "zdrowie": {
+        "pielegniarka": 8.53,
+        "psycholog": 3.2,
+        "socjal": 1.47
+      },
+      "dzieci nie chodzące do szkoły": 249
+    },
+    {
+      "kraj": "Egipt",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 2.6,
+          "5a24": 4,
+          "25a54": 27,
+          "powyzej55": 66.4
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 3.8,
+          "5a24": 2.6,
+          "25a54": 15.3,
+          "powyzej55": 78.3
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 98.82,
+          "nie": 1.18
+        },
+        "podstawowe warunki sanitarne": 94.19
+      },
+      "PKB": {
+        "per capita": 2441
+      },
+      "zdrowie": {
+        "pielegniarka": 4.8,
+        "psycholog": 0.26,
+        "socjal": 0.45
+      },
+      "dzieci nie chodzące do szkoły": 63338
+    },
+    {
+      "kraj": "Burkina Faso",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 2.3,
+          "5a24": 3.1,
+          "25a54": 24.3,
+          "powyzej55": 70.3
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 2.8,
+          "5a24": 2.6,
+          "25a54": 15.6,
+          "powyzej55": 79
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 34.99,
+          "nie": 65.01
+        },
+        "podstawowe warunki sanitarne": 19.4
+      },
+      "PKB": {
+        "per capita": 642
+      },
+      "zdrowie": {
+        "pielegniarka": 0.63,
+        "psycholog": 0.022,
+        "socjal": 0.011
+      },
+      "dzieci nie chodzące do szkoły": 746617
+    }
+  ],
+  "AmerykaPld": [
+    {
+      "kraj": "Argentyna",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0.22,
+          "5a24": 1.13,
+          "25a54": 13.6,
+          "powyzej55": 85.05
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.24,
+          "5a24": 0.41,
+          "25a54": 6.43,
+          "powyzej55": 92.92
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 99.64,
+          "nie": 0.36
+        },
+        "podstawowe warunki sanitarne": 94.26
+      },
+      "PKB": {
+        "per capita": 14508
+      },
+      "zdrowie": {
+        "pielegniarka": 170.32,
+        "psycholog": 222.6,
+        "socjal": 50.3
+      },
+      "dzieci nie chodzące do szkoły": 18743
+    },
+    {
+      "kraj": "Urugwaj",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0.5,
+          "5a24": 0.5,
+          "25a54": 10.1,
+          "powyzej55": 88.9
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.3,
+          "5a24": 0.5,
+          "25a54": 4.7,
+          "powyzej55": 94.5
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 95.3,
+          "nie": 4.7
+        },
+        "podstawowe warunki sanitarne": 96.6
+      },
+      "PKB": {
+        "per capita": 16341
+      },
+      "zdrowie": {
+        "pielegniarka": 11.23,
+        "psycholog": 8.05,
+        "socjal": 5.69
+      },
+      "dzieci nie chodzące do szkoły": 857
+    },
+    {
+      "kraj": "Boliwia",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0.5,
+          "5a24": 2.4,
+          "25a54": 21.9,
+          "powyzej55": 75.2
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.1,
+          "5a24": 0.5,
+          "25a54": 12.5,
+          "powyzej55": 86.9
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 78.12,
+          "nie": 21.88
+        },
+        "podstawowe warunki sanitarne": 93.94
+      },
+      "PKB": {
+        "per capita": 3351
+      },
+      "zdrowie": {
+        "pielegniarka": 10.24,
+        "psycholog": 6.03,
+        "socjal": 5.78
+      },
+      "dzieci nie chodzące do szkoły": 118356
+    }
+  ],
+  "AmerykaPln": [
+    {
+      "kraj": "Stany Zjednoczone",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0.1,
+          "5a24": 0.4,
+          "25a54": 10.1,
+          "powyzej55": 89.4
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.05,
+          "5a24": 0.25,
+          "25a54": 7.5,
+          "powyzej55": 92.2
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 96.97,
+          "nie": 3.03
+        },
+        "podstawowe warunki sanitarne": 89.97
+      },
+      "PKB": {
+        "per capita": 59939
+      },
+      "zdrowie": {
+        "pielegniarka": 4.28,
+        "psycholog": 29.86,
+        "socjal": 60.34
+      },
+      "dzieci nie chodzące do szkoły": 104711
+    },
+    {
+      "kraj": "Gwatemala",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 1.1,
+          "5a24": 4.4,
+          "25a54": 23.1,
+          "powyzej55": 71.4
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 1.4,
+          "5a24": 2.1,
+          "25a54": 12.1,
+          "powyzej55": 84.4
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 90.36,
+          "nie": 9.64
+        },
+        "podstawowe warunki sanitarne": 65.06
+      },
+      "PKB": {
+        "per capita": 4471
+      },
+      "zdrowie": {
+        "pielegniarka": 1.07,
+        "psycholog": 46.15,
+        "socjal": 0.006
+      },
+      "dzieci nie chodzące do szkoły": 271393
+    },
+    {
+      "kraj": "Barbados",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0.3,
+          "5a24": 0.6,
+          "25a54": 16.1,
+          "powyzej55": 83
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.1,
+          "5a24": 0.4,
+          "25a54": 9.2,
+          "powyzej55": 90.3
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 98.49,
+          "nie": 1.51
+        },
+        "podstawowe warunki sanitarne": 97.28
+      },
+      "PKB": {
+        "per capita": 16328
+      },
+      "zdrowie": {
+        "pielegniarka": 63.33,
+        "psycholog": 12.55,
+        "socjal": 5.9
+      },
+      "dzieci nie chodzące do szkoły": 719
+    }
+  ],
+  "Australia": [
+    {
+      "kraj": "Australia",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 1,
+          "5a24": 3.4,
+          "25a54": 8,
+          "powyzej55": 87.6
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.02,
+          "5a24": 0.1,
+          "25a54": 4.54,
+          "powyzej55": 95.34
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 100,
+          "nie": 0
+        },
+        "podstawowe warunki sanitarne": 99.99
+      },
+      "PKB": {
+        "per capita": 53831
+      },
+      "zdrowie": {
+        "pielegniarka": 90.58,
+        "psycholog": 103,
+        "socjal": 73.42
+      },
+      "dzieci nie chodzące do szkoły": 7031
+    },
+    {
+      "kraj": "Fidżi",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 1.5,
+          "5a24": 2.9,
+          "25a54": 33,
+          "powyzej55": 62.6
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 1.1,
+          "5a24": 2.2,
+          "25a54": 24.3,
+          "powyzej55": 72.4
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 88.7,
+          "nie": 11.3
+        },
+        "podstawowe warunki sanitarne": 95.07
+      },
+      "PKB": {
+        "per capita": 5768
+      },
+      "zdrowie": {
+        "pielegniarka": 1.46,
+        "psycholog": 0.56,
+        "socjal": 0.56
+      },
+      "dzieci nie chodzące do szkoły": 576
+    },
+    {
+      "kraj": "Kiribati",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 5.4,
+          "5a24": 7,
+          "25a54": 56.3,
+          "powyzej55": 31.3
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 3,
+          "5a24": 3.1,
+          "25a54": 44.6,
+          "powyzej55": 49.3
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 71.62,
+          "nie": 28.38
+        },
+        "podstawowe warunki sanitarne": 47.8
+      },
+      "PKB": {
+        "per capita": 1626
+      },
+      "zdrowie": {
+        "pielegniarka": 2.67,
+        "psycholog": 1.13,
+        "socjal": 0.89
+      },
+      "dzieci nie chodzące do szkoły": 645
+    }
+  ],
+  "Azja": [
+    {
+      "kraj": "Singapur",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0.2,
+          "5a24": 0.5,
+          "25a54": 12.8,
+          "powyzej55": 86.5
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.1,
+          "5a24": 0.2,
+          "25a54": 9.4,
+          "powyzej55": 90.3
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 100,
+          "nie": 0
+        },
+        "podstawowe warunki sanitarne": 100
+      },
+      "PKB": {
+        "per capita": 56746
+      },
+      "zdrowie": {
+        "pielegniarka": 39.73,
+        "psycholog": 23.24,
+        "socjal": 5.09
+      },
+      "dzieci nie chodzące do szkoły": 72
+    },
+    {
+      "kraj": "Filipiny",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0.9,
+          "5a24": 3.6,
+          "25a54": 30.1,
+          "powyzej55": 65.4
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.2,
+          "5a24": 1.7,
+          "25a54": 21.9,
+          "powyzej55": 76.2
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 89.96,
+          "nie": 10.04
+        },
+        "podstawowe warunki sanitarne": 76.53
+      },
+      "PKB": {
+        "per capita": 2982
+      },
+      "zdrowie": {
+        "pielegniarka": 1.12,
+        "psycholog": 0.88,
+        "socjal": 0.03
+      },
+      "dzieci nie chodzące do szkoły": 424228
+    },
+    {
+      "kraj": "Uzbekistan",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 1.2,
+          "5a24": 4.3,
+          "25a54": 35.5,
+          "powyzej55": 59
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.3,
+          "5a24": 0.6,
+          "25a54": 12.4,
+          "powyzej55": 86.7
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 96.07,
+          "nie": 2.93
+        },
+        "podstawowe warunki sanitarne": 100
+      },
+      "PKB": {
+        "per capita": 1554
+      },
+      "zdrowie": {
+        "pielegniarka": 9.21,
+        "psycholog": 0.09,
+        "socjal": 0.43
+      },
+      "dzieci nie chodzące do szkoły": 16680
+    }
+  ],
+  "Europa": [
+    {
+      "kraj": "Szwajcaria",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0.1,
+          "5a24": 0.3,
+          "25a54": 7.4,
+          "powyzej55": 92.2
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0,
+          "5a24": 0.1,
+          "25a54": 2.6,
+          "powyzej55": 97.3
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 100,
+          "nie": 0
+        },
+        "podstawowe warunki sanitarne": 99.89
+      },
+      "PKB": {
+        "per capita": 80296
+      },
+      "zdrowie": {
+        "pielegniarka": 92.66,
+        "psycholog": 84.14,
+        "socjal": 32.2
+      },
+      "dzieci nie chodzące do szkoły": 706
+    },
+    {
+      "kraj": "Ukraina",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0.2,
+          "5a24": 0.4,
+          "25a54": 17.5,
+          "powyzej55": 81.9
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.1,
+          "5a24": 0.1,
+          "25a54": 5.9,
+          "powyzej55": 93.9
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 91.31,
+          "nie": 8.69
+        },
+        "podstawowe warunki sanitarne": 96.22
+      },
+      "PKB": {
+        "per capita": 2521
+      },
+      "zdrowie": {
+        "pielegniarka": 15.06,
+        "psycholog": 4.12,
+        "socjal": 6.32
+      },
+      "dzieci nie chodzące do szkoły": 136260
+    },
+    {
+      "kraj": "Mołdawia",
+      "umieralnosc": {
+        "rak": {
+          "ponizej4": 0.2,
+          "5a24": 0.8,
+          "25a54": 20.8,
+          "powyzej55": 78.2
+        },
+        "choroby układu sercowo-naczyniowego": {
+          "ponizej4": 0.05,
+          "5a24": 0.15,
+          "25a54": 6.7,
+          "powyzej55": 93.2
+        }
+      },
+      "woda": {
+        "dostęp do wody pitnej": {
+          "tak": 83.16,
+          "nie": 16.84
+        },
+        "podstawowe warunki sanitarne": 76.31
+      },
+      "PKB": {
+        "per capita": 2002
+      },
+      "zdrowie": {
+        "pielegniarka": 14.83,
+        "psycholog": 0.91,
+        "socjal": 0.49
+      },
+      "dzieci nie chodzące do szkoły": 13968
+    }
+  ]
+}
