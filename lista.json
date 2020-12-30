@@ -9,7 +9,7 @@
           "25a54": 18.4,
           "powyzej55": 80.8
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 1.4,
           "5a24": 3,
           "25a54": 13.4,
@@ -17,7 +17,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 96.25,
           "nie": 3.75
         },
@@ -31,7 +31,7 @@
         "psycholog": 3.2,
         "socjal": 1.47
       },
-      "dzieci nie chodzące do szkoły": 249
+      "dzieci nie chodzace do szkoly": 249
     },
     {
       "kraj": "Egipt",
@@ -42,7 +42,7 @@
           "25a54": 27,
           "powyzej55": 66.4
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 3.8,
           "5a24": 2.6,
           "25a54": 15.3,
@@ -50,7 +50,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 98.82,
           "nie": 1.18
         },
@@ -64,7 +64,7 @@
         "psycholog": 0.26,
         "socjal": 0.45
       },
-      "dzieci nie chodzące do szkoły": 63338
+      "dzieci nie chodzace do szkoly": 63338
     },
     {
       "kraj": "Burkina Faso",
@@ -75,7 +75,7 @@
           "25a54": 24.3,
           "powyzej55": 70.3
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 2.8,
           "5a24": 2.6,
           "25a54": 15.6,
@@ -83,7 +83,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 34.99,
           "nie": 65.01
         },
@@ -97,7 +97,7 @@
         "psycholog": 0.022,
         "socjal": 0.011
       },
-      "dzieci nie chodzące do szkoły": 746617
+      "dzieci nie chodzace do szkoly": 746617
     }
   ],
   "AmerykaPld": [
@@ -110,7 +110,7 @@
           "25a54": 13.6,
           "powyzej55": 85.05
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.24,
           "5a24": 0.41,
           "25a54": 6.43,
@@ -118,7 +118,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 99.64,
           "nie": 0.36
         },
@@ -132,7 +132,7 @@
         "psycholog": 222.6,
         "socjal": 50.3
       },
-      "dzieci nie chodzące do szkoły": 18743
+      "dzieci nie chodzace do szkoly": 18743
     },
     {
       "kraj": "Urugwaj",
@@ -143,7 +143,7 @@
           "25a54": 10.1,
           "powyzej55": 88.9
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.3,
           "5a24": 0.5,
           "25a54": 4.7,
@@ -151,7 +151,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 95.3,
           "nie": 4.7
         },
@@ -165,7 +165,7 @@
         "psycholog": 8.05,
         "socjal": 5.69
       },
-      "dzieci nie chodzące do szkoły": 857
+      "dzieci nie chodzace do szkoly": 857
     },
     {
       "kraj": "Boliwia",
@@ -176,7 +176,7 @@
           "25a54": 21.9,
           "powyzej55": 75.2
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.1,
           "5a24": 0.5,
           "25a54": 12.5,
@@ -184,7 +184,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 78.12,
           "nie": 21.88
         },
@@ -198,7 +198,7 @@
         "psycholog": 6.03,
         "socjal": 5.78
       },
-      "dzieci nie chodzące do szkoły": 118356
+      "dzieci nie chodzace do szkoly": 118356
     }
   ],
   "AmerykaPln": [
@@ -211,7 +211,7 @@
           "25a54": 10.1,
           "powyzej55": 89.4
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.05,
           "5a24": 0.25,
           "25a54": 7.5,
@@ -219,7 +219,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 96.97,
           "nie": 3.03
         },
@@ -233,7 +233,7 @@
         "psycholog": 29.86,
         "socjal": 60.34
       },
-      "dzieci nie chodzące do szkoły": 104711
+      "dzieci nie chodzace do szkoly": 104711
     },
     {
       "kraj": "Gwatemala",
@@ -244,7 +244,7 @@
           "25a54": 23.1,
           "powyzej55": 71.4
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 1.4,
           "5a24": 2.1,
           "25a54": 12.1,
@@ -252,7 +252,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 90.36,
           "nie": 9.64
         },
@@ -266,7 +266,7 @@
         "psycholog": 46.15,
         "socjal": 0.006
       },
-      "dzieci nie chodzące do szkoły": 271393
+      "dzieci nie chodzace do szkoly": 271393
     },
     {
       "kraj": "Barbados",
@@ -277,7 +277,7 @@
           "25a54": 16.1,
           "powyzej55": 83
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.1,
           "5a24": 0.4,
           "25a54": 9.2,
@@ -285,7 +285,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 98.49,
           "nie": 1.51
         },
@@ -299,7 +299,7 @@
         "psycholog": 12.55,
         "socjal": 5.9
       },
-      "dzieci nie chodzące do szkoły": 719
+      "dzieci nie chodzace do szkoly": 719
     }
   ],
   "Australia": [
@@ -312,7 +312,7 @@
           "25a54": 8,
           "powyzej55": 87.6
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.02,
           "5a24": 0.1,
           "25a54": 4.54,
@@ -320,7 +320,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 100,
           "nie": 0
         },
@@ -334,7 +334,7 @@
         "psycholog": 103,
         "socjal": 73.42
       },
-      "dzieci nie chodzące do szkoły": 7031
+      "dzieci nie chodzace do szkoly": 7031
     },
     {
       "kraj": "Fidżi",
@@ -345,7 +345,7 @@
           "25a54": 33,
           "powyzej55": 62.6
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 1.1,
           "5a24": 2.2,
           "25a54": 24.3,
@@ -353,7 +353,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 88.7,
           "nie": 11.3
         },
@@ -367,7 +367,7 @@
         "psycholog": 0.56,
         "socjal": 0.56
       },
-      "dzieci nie chodzące do szkoły": 576
+      "dzieci nie chodzace do szkoly": 576
     },
     {
       "kraj": "Kiribati",
@@ -378,7 +378,7 @@
           "25a54": 56.3,
           "powyzej55": 31.3
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 3,
           "5a24": 3.1,
           "25a54": 44.6,
@@ -386,7 +386,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 71.62,
           "nie": 28.38
         },
@@ -400,7 +400,7 @@
         "psycholog": 1.13,
         "socjal": 0.89
       },
-      "dzieci nie chodzące do szkoły": 645
+      "dzieci nie chodzace do szkoly": 645
     }
   ],
   "Azja": [
@@ -413,7 +413,7 @@
           "25a54": 12.8,
           "powyzej55": 86.5
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.1,
           "5a24": 0.2,
           "25a54": 9.4,
@@ -421,7 +421,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 100,
           "nie": 0
         },
@@ -435,7 +435,7 @@
         "psycholog": 23.24,
         "socjal": 5.09
       },
-      "dzieci nie chodzące do szkoły": 72
+      "dzieci nie chodzace do szkoly": 72
     },
     {
       "kraj": "Filipiny",
@@ -446,7 +446,7 @@
           "25a54": 30.1,
           "powyzej55": 65.4
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.2,
           "5a24": 1.7,
           "25a54": 21.9,
@@ -454,7 +454,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 89.96,
           "nie": 10.04
         },
@@ -468,7 +468,7 @@
         "psycholog": 0.88,
         "socjal": 0.03
       },
-      "dzieci nie chodzące do szkoły": 424228
+      "dzieci nie chodzace do szkoly": 424228
     },
     {
       "kraj": "Uzbekistan",
@@ -479,7 +479,7 @@
           "25a54": 35.5,
           "powyzej55": 59
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.3,
           "5a24": 0.6,
           "25a54": 12.4,
@@ -487,7 +487,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 96.07,
           "nie": 2.93
         },
@@ -501,7 +501,7 @@
         "psycholog": 0.09,
         "socjal": 0.43
       },
-      "dzieci nie chodzące do szkoły": 16680
+      "dzieci nie chodzace do szkoly": 16680
     }
   ],
   "Europa": [
@@ -514,7 +514,7 @@
           "25a54": 7.4,
           "powyzej55": 92.2
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0,
           "5a24": 0.1,
           "25a54": 2.6,
@@ -522,7 +522,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 100,
           "nie": 0
         },
@@ -536,7 +536,7 @@
         "psycholog": 84.14,
         "socjal": 32.2
       },
-      "dzieci nie chodzące do szkoły": 706
+      "dzieci nie chodzace do szkoly": 706
     },
     {
       "kraj": "Ukraina",
@@ -547,7 +547,7 @@
           "25a54": 17.5,
           "powyzej55": 81.9
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.1,
           "5a24": 0.1,
           "25a54": 5.9,
@@ -555,7 +555,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 91.31,
           "nie": 8.69
         },
@@ -569,10 +569,10 @@
         "psycholog": 4.12,
         "socjal": 6.32
       },
-      "dzieci nie chodzące do szkoły": 136260
+      "dzieci nie chodzace do szkoly": 136260
     },
     {
-      "kraj": "Mołdawia",
+      "kraj": "Moldawia",
       "umieralnosc": {
         "rak": {
           "ponizej4": 0.2,
@@ -580,7 +580,7 @@
           "25a54": 20.8,
           "powyzej55": 78.2
         },
-        "choroby układu sercowo-naczyniowego": {
+        "choroby ukladu sercowo-naczyniowego": {
           "ponizej4": 0.05,
           "5a24": 0.15,
           "25a54": 6.7,
@@ -588,7 +588,7 @@
         }
       },
       "woda": {
-        "dostęp do wody pitnej": {
+        "dostep do wody pitnej": {
           "tak": 83.16,
           "nie": 16.84
         },
@@ -602,7 +602,7 @@
         "psycholog": 0.91,
         "socjal": 0.49
       },
-      "dzieci nie chodzące do szkoły": 13968
+      "dzieci nie chodzace do szkoly": 13968
     }
   ]
 }
