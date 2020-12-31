@@ -10,7 +10,7 @@ krajUzbekistan = listaAzja[2]
 # umieralnosc na raka i choroby [PROCENTY]
 rakSingapurWartosci = list(krajSingapur['umieralnosc']['rak'].values())
 chorobySingapurWartosci = list(krajSingapur['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
-rakFilipinyeWartosci = list(krajFilipiny['umieralnosc']['rak'].values())
+rakFilipinyWartosci = list(krajFilipiny['umieralnosc']['rak'].values())
 chorobyFilipinyWartosci = list(krajFilipiny['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
 rakUzbekistanWartosci = list(krajUzbekistan['umieralnosc']['rak'].values())
 chorobyUzbekistanWartosci = list(krajUzbekistan['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
