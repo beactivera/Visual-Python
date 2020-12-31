@@ -10,7 +10,7 @@ krajBarbados = listaAmerykaPln[2]
 # umieralnosc na raka i choroby [PROCENTY]
 rakUSAWartosci = list(krajUSA['umieralnosc']['rak'].values())
 chorobyUSAWartosci = list(krajUSA['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
-rakGwatemalaeWartosci = list(krajGwatemala['umieralnosc']['rak'].values())
+rakGwatemalaWartosci = list(krajGwatemala['umieralnosc']['rak'].values())
 chorobyGwatemalaWartosci = list(krajGwatemala['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
 rakBarbadosWartosci = list(krajBarbados['umieralnosc']['rak'].values())
 chorobyBarbadosWartosci = list(krajBarbados['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
