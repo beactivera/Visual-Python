@@ -10,7 +10,7 @@ krajMoldawia = listaEuropa[2]
 # umieralnosc na raka i choroby [PROCENTY]
 rakSzwajcariaWartosci = list(krajSzwajcaria['umieralnosc']['rak'].values())
 chorobySzwajcariaWartosci = list(krajSzwajcaria['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
-rakUkrainaeWartosci = list(krajUkraina['umieralnosc']['rak'].values())
+rakUkrainaWartosci = list(krajUkraina['umieralnosc']['rak'].values())
 chorobyUkrainaWartosci = list(krajUkraina['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
 rakMoldawiaWartosci = list(krajMoldawia['umieralnosc']['rak'].values())
 chorobyMoldawiaWartosci = list(krajMoldawia['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
