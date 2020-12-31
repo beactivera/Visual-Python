@@ -10,7 +10,7 @@ krajKiribati = listaAustralia[2]
 # umieralnosc na raka i choroby [PROCENTY]
 rakAustraliaWartosci = list(krajAustralia['umieralnosc']['rak'].values())
 chorobyAustraliaWartosci = list(krajAustralia['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
-rakFidzieWartosci = list(krajFidzi['umieralnosc']['rak'].values())
+rakFidziWartosci = list(krajFidzi['umieralnosc']['rak'].values())
 chorobyFidziWartosci = list(krajFidzi['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
 rakKiribatiWartosci = list(krajKiribati['umieralnosc']['rak'].values())
 chorobyKiribatiWartosci = list(krajKiribati['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
