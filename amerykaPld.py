@@ -10,7 +10,7 @@ krajBoliwia = listaAmerykaPld[2]
 # umieralnosc na raka i choroby [PROCENTY]
 rakArgentynaWartosci = list(krajArgentyna['umieralnosc']['rak'].values())
 chorobyArgentynaWartosci = list(krajArgentyna['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
-rakUrugwajeWartosci = list(krajUrugwaj['umieralnosc']['rak'].values())
+rakUrugwajWartosci = list(krajUrugwaj['umieralnosc']['rak'].values())
 chorobyUrugwajWartosci = list(krajUrugwaj['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
 rakBoliwiaWartosci = list(krajBoliwia['umieralnosc']['rak'].values())
 chorobyBoliwiaWartosci = list(krajBoliwia['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
