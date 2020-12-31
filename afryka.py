@@ -10,7 +10,7 @@ krajBurkina = listaAfryka[2]
 # umieralnosc na raka i choroby [PROCENTY]
 rakSeszeleWartosci = list(krajSeszele['umieralnosc']['rak'].values())
 chorobySeszeleWartosci = list(krajSeszele['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
-rakEgipteWartosci = list(krajEgipt['umieralnosc']['rak'].values())
+rakEgiptWartosci = list(krajEgipt['umieralnosc']['rak'].values())
 chorobyEgiptWartosci = list(krajEgipt['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
 rakBurkinaWartosci = list(krajBurkina['umieralnosc']['rak'].values())
 chorobyBurkinaWartosci = list(krajBurkina['umieralnosc']['choroby ukladu sercowo-naczyniowego'].values())
