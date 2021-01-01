@@ -25,19 +25,10 @@ sanitarneAustraliaWartosci = krajAustralia['woda']['podstawowe warunki sanitarne
 sanitarneFidziWartosci = krajFidzi['woda']['podstawowe warunki sanitarne']
 sanitarneKiribatiWartosci = krajKiribati['woda']['podstawowe warunki sanitarne']
 
-# PKB
-pkbAustralia = krajAustralia['PKB']['per capita']
-pkbFidzi = krajFidzi['PKB']['per capita']
-pkbKiribati = krajKiribati['PKB']['per capita']
-
 # zdrowie /pielegniarka, psycholog, socjal/ [ILOSC na 100 tys ludzi]
 zdrowieAustraliaWartosci = list(krajAustralia['zdrowie'].values())
 zdrowieFidziWartosci = list(krajFidzi['zdrowie'].values())
 zdrowieKiribatiWartosci = list(krajKiribati['zdrowie'].values())
 
-# edukacja [ilosc]
-dzieciAustralia = krajAustralia['dzieci nie chodzace do szkoly']
-dzieciFidzi = krajFidzi['dzieci nie chodzace do szkoly']
-dzieciKiribati = krajKiribati['dzieci nie chodzace do szkoly']
 
 

@@ -25,19 +25,10 @@ sanitarneUSAWartosci = krajUSA['woda']['podstawowe warunki sanitarne']
 sanitarneGwatemalaWartosci = krajGwatemala['woda']['podstawowe warunki sanitarne']
 sanitarneBarbadosWartosci = krajBarbados['woda']['podstawowe warunki sanitarne']
 
-# PKB
-pkbUSA = krajUSA['PKB']['per capita']
-pkbGwatemala = krajGwatemala['PKB']['per capita']
-pkbBarbados = krajBarbados['PKB']['per capita']
-
 # zdrowie /pielegniarka, psycholog, socjal/ [ILOSC na 100 tys ludzi]
 zdrowieUSAWartosci = list(krajUSA['zdrowie'].values())
 zdrowieGwatemalaWartosci = list(krajGwatemala['zdrowie'].values())
 zdrowieBarbadosWartosci = list(krajBarbados['zdrowie'].values())
 
-# edukacja [ilosc]
-dzieciUSA = krajUSA['dzieci nie chodzace do szkoly']
-dzieciGwatemala = krajGwatemala['dzieci nie chodzace do szkoly']
-dzieciBarbados = krajBarbados['dzieci nie chodzace do szkoly']
 
 

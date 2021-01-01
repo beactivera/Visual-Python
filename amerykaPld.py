@@ -25,19 +25,9 @@ sanitarneArgentynaWartosci = krajArgentyna['woda']['podstawowe warunki sanitarne
 sanitarneUrugwajWartosci = krajUrugwaj['woda']['podstawowe warunki sanitarne']
 sanitarneBoliwiaWartosci = krajBoliwia['woda']['podstawowe warunki sanitarne']
 
-# PKB
-pkbArgentyna = krajArgentyna['PKB']['per capita']
-pkbUrugwaj = krajUrugwaj['PKB']['per capita']
-pkbBoliwia = krajBoliwia['PKB']['per capita']
-
 # zdrowie /pielegniarka, psycholog, socjal/ [ILOSC na 100 tys ludzi]
 zdrowieArgentynaWartosci = list(krajArgentyna['zdrowie'].values())
 zdrowieUrugwajWartosci = list(krajUrugwaj['zdrowie'].values())
 zdrowieBoliwiaWartosci = list(krajBoliwia['zdrowie'].values())
-
-# edukacja [ilosc]
-dzieciArgentyna = krajArgentyna['dzieci nie chodzace do szkoly']
-dzieciUrugwaj = krajUrugwaj['dzieci nie chodzace do szkoly']
-dzieciBoliwia = krajBoliwia['dzieci nie chodzace do szkoly']
 
 

@@ -25,19 +25,10 @@ sanitarneSingapurWartosci = krajSingapur['woda']['podstawowe warunki sanitarne']
 sanitarneFilipinyWartosci = krajFilipiny['woda']['podstawowe warunki sanitarne']
 sanitarneUzbekistanWartosci = krajUzbekistan['woda']['podstawowe warunki sanitarne']
 
-# PKB
-pkbSingapur = krajSingapur['PKB']['per capita']
-pkbFilipiny = krajFilipiny['PKB']['per capita']
-pkbUzbekistan = krajUzbekistan['PKB']['per capita']
-
 # zdrowie /pielegniarka, psycholog, socjal/ [ILOSC na 100 tys ludzi]
 zdrowieSingapurWartosci = list(krajSingapur['zdrowie'].values())
 zdrowieFilipinyWartosci = list(krajFilipiny['zdrowie'].values())
 zdrowieUzbekistanWartosci = list(krajUzbekistan['zdrowie'].values())
 
-# edukacja [ilosc]
-dzieciSingapur = krajSingapur['dzieci nie chodzace do szkoly']
-dzieciFilipiny = krajFilipiny['dzieci nie chodzace do szkoly']
-dzieciUzbekistan = krajUzbekistan['dzieci nie chodzace do szkoly']
 
 

@@ -25,19 +25,11 @@ sanitarneSzwajcariaWartosci = krajSzwajcaria['woda']['podstawowe warunki sanitar
 sanitarneUkrainaWartosci = krajUkraina['woda']['podstawowe warunki sanitarne']
 sanitarneMoldawiaWartosci = krajMoldawia['woda']['podstawowe warunki sanitarne']
 
-# PKB
-pkbSzwajcaria = krajSzwajcaria['PKB']['per capita']
-pkbUkraina = krajUkraina['PKB']['per capita']
-pkbMoldawia = krajMoldawia['PKB']['per capita']
 
 # zdrowie /pielegniarka, psycholog, socjal/ [ILOSC na 100 tys ludzi]
 zdrowieSzwajcariaWartosci = list(krajSzwajcaria['zdrowie'].values())
 zdrowieUkrainaWartosci = list(krajUkraina['zdrowie'].values())
 zdrowieMoldawiaWartosci = list(krajMoldawia['zdrowie'].values())
 
-# edukacja [ilosc]
-dzieciSzwajcaria = krajSzwajcaria['dzieci nie chodzace do szkoly']
-dzieciUkraina = krajUkraina['dzieci nie chodzace do szkoly']
-dzieciMoldawia = krajMoldawia['dzieci nie chodzace do szkoly']
 
 

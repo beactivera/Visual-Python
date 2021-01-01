@@ -25,19 +25,10 @@ sanitarneSeszeleWartosci = krajSeszele['woda']['podstawowe warunki sanitarne']
 sanitarneEgiptWartosci = krajEgipt['woda']['podstawowe warunki sanitarne']
 sanitarneBurkinaWartosci = krajBurkina['woda']['podstawowe warunki sanitarne']
 
-# PKB
-pkbSeszele = krajSeszele['PKB']['per capita']
-pkbEgipt = krajEgipt['PKB']['per capita']
-pkbBurkina = krajBurkina['PKB']['per capita']
-
 # zdrowie /pielegniarka, psycholog, socjal/ [ILOSC na 100 tys ludzi]
 zdrowieSeszeleWartosci = list(krajSeszele['zdrowie'].values())
 zdrowieEgiptWartosci = list(krajEgipt['zdrowie'].values())
 zdrowieBurkinaWartosci = list(krajBurkina['zdrowie'].values())
 
-# edukacja [ilosc]
-dzieciSeszele = krajSeszele['dzieci nie chodzace do szkoly']
-dzieciEgipt = krajEgipt['dzieci nie chodzace do szkoly']
-dzieciBurkina = krajBurkina['dzieci nie chodzace do szkoly']
 
 
