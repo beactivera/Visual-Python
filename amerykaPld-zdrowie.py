@@ -33,6 +33,7 @@ ax.set_title('Służba zdrowia')
 
 # Create legend & Show graphic
 plt.legend()
-plt.show()
+# plt.show()
+plt.savefig('plots-zdrowie/zdrowie-AmerykaPld.svg')
 
 # https://python-graph-gallery.com/11-grouped-barplot/
