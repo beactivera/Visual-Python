@@ -5,7 +5,7 @@
       "umieralnosc": {
         "rak": {
           "ponizej4": 0,
-          "5a24": 0.8,
+          "do24": 0.8,
           "25a54": 18.4,
           "powyzej55": 80.8
         },
@@ -97,7 +97,7 @@
         "psycholog": 0.022,
         "socjal": 0.011
       },
-      "dzieci nie chodzace do szkoly": 746617
+      "dzieci nie chodzace do szkoly": 646617
     }
   ],
   "AmerykaPld": [
@@ -529,7 +529,7 @@
         "podstawowe warunki sanitarne": 99.89
       },
       "PKB": {
-        "per capita": 80296
+        "per capita": 70296
       },
       "zdrowie": {
         "pielegniarka": 92.66,
